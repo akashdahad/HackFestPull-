@@ -1,2 +1,2 @@
 # HackFestPull-
-Make Your Pull Requests! Will Merge Them 
+Make Your Pull Requests! We Will Merge Them.
